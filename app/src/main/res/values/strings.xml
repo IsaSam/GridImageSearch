@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Image Search Viewer</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="rs_search_prompt">Enter Search</string>
+    <string name="rs_search_label">Search</string>
+    <string name="rs_img_title_label">Image Title</string>
+    <string name="rs_img_view">Image Result</string>
+    <string name="title_activity_img_display">Full Image Display</string>
+    <string name="rs_imgResult">rs_imgResult</string>
+</resources>
