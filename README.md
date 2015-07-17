@@ -7,7 +7,7 @@ Searching for Images using Google API Search
  * [x] User can tap on any image in results to see the image full-screen
  * [x] image results appears in one screen (total 8)
 
-![walkthrough](GridImageViewer.gif)
+![walkthrough](gridImageViewer.gif)
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
